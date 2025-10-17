@@ -1,92 +1,57 @@
-# 📊 Dynamic Data Table Manager
+📊 Dynamic Data Table Manager
 
+<<<<<<< HEAD
 **🔗 Live Demo:** [https://dynamic-data-table-manager.vercel.app](https://dynamic-data-table-manager.vercel.app)
 
 **📂 GitHub:** [https://github.com/Bhavya1352/dynamic-data-table-manager](https://github.com/Bhavya1352/dynamic-data-table-manager)
 
 Ek modern aur professional data table jo Excel jaisi functionality deta hai! 
+=======
+A modern and professional data table with Excel-like functionality — built for real-world use!
+>>>>>>> c673152dbfedac15a11fb5de9c5a0c76152c74cb
 
-## ✨ Kya Special Hai
+✨ What Makes It Special
 
-- **Indian Tech Company** ka realistic data (Aarav, Priya, Rohit...)
-- **Custom Colors** - teal aur indigo theme (boring blue nahi!)
-- **Smart Features** jo real companies mein use hote hain
+Realistic Indian Tech Company Data (Aarav, Priya, Rohit...)
 
-## 🎯 Main Features
+Custom Colors — Teal and Indigo theme (no boring blue!)
 
-### 📋 Table Features
-- **Search** - kisi bhi field mein search karo
-- **Sort** - column headers pe click karke sort karo
-- **Pages** - 5, 10, 25 ya All rows dekh sakte ho
-- **Columns** - show/hide kar sakte ho eye icon se 👁️
+Smart Features inspired by real company workflows
 
-### ✏️ Editing Features  
-- **Edit All** - saare rows ek saath edit karo
-- **Save All** - ek click mein sab save
-- **Validation** - age number hona chahiye, email sahi format mein
-- **Delete** - confirmation ke saath delete
+🎯 Main Features
+📋 Table Features
 
-### 📁 File Features
-- **CSV Import** - Excel file upload karo, data aa jayega
-- **CSV Export** - table ko Excel file mein download karo
-- **Smart Export** - sirf visible columns export hote hain
+Search — search through any field instantly
 
-### 🎨 Design Features
-- **Light/Dark Mode** - theme toggle kar sakte ho
-- **Mobile Friendly** - phone mein bhi achha dikhta hai
-- **Custom Colors** - professional look
-- **Smooth Animations** - hover effects aur transitions
+Sort — click column headers to sort data
 
-## 🛠️ Technology Used
+Pagination — view 5, 10, 25, or all rows
 
-- **Next.js 14** - Latest React framework
-- **Redux Toolkit** - Data management
-- **Material UI** - Beautiful components  
-- **TypeScript** - Type safety
-- **React Hook Form** - Form validation
-- **PapaParse** - CSV file handling
+Column Management — show/hide columns with the 👁️ icon
 
-## 🚀 Kaise Chalaye
+✏️ Editing Features
 
-```bash
-# Dependencies install karo
-npm install
+Edit All — edit all rows at once
 
-# Development server start karo
-npm run dev
+Save All — save all edits in a single click
 
-# Browser mein jao: http://localhost:3000
-```
+Validation — ensures age is numeric & email format is correct
 
-## 🎮 Kaise Use Kare
+Delete — confirm before deleting rows
 
-1. **Search Box** - kuch type karo, data filter ho jayega
-2. **Column Headers** - click karo sorting ke liye
-3. **Edit Button** - row edit karne ke liye
-4. **Edit All** - multiple rows edit karne ke liye
-5. **Manage Columns** - columns show/hide karne ke liye
-6. **Theme Toggle** - sun/moon icon pe click karo
-7. **Import/Export** - CSV files ke liye buttons use karo
+📁 File Features
 
-## 💡 Kyu Banaya
+CSV Import — upload Excel/CSV files to load data
 
-- **Real-world experience** - companies mein aise hi tables use hote hain
-- **Modern tech stack** - latest technologies sikhi
-- **User experience** - har feature user-friendly banaya
-- **Professional look** - interview mein impress karne ke liye!
+CSV Export — download your table as an Excel/CSV file
 
-## 🎯 Key Highlights
+Smart Export — only visible columns are exported
 
-- ✅ **100% Requirements** complete
-- ✅ **Custom Features** added (Edit All mode)
-- ✅ **Indian Dataset** for realistic feel
-- ✅ **Professional UI** with custom theme
-- ✅ **Mobile Responsive** design
-- ✅ **Real-time Validation** 
-- ✅ **Smooth UX** with notifications
+🎨 Design Features
 
----
+Light/Dark Mode — toggle between themes easily
 
+<<<<<<< HEAD
 ## 🎯 Advanced Features Implemented
 
 ### ✅ **Already Professional Level:**
@@ -113,5 +78,68 @@ npm run dev
 **🎉 This project exceeds typical frontend interview requirements!**
 
 **Made with ❤️ for modern data management**
+=======
+Mobile Friendly — fully responsive design
+>>>>>>> c673152dbfedac15a11fb5de9c5a0c76152c74cb
 
-*Perfect for frontend developer interviews!* 🚀
+Custom Colors — professional teal & indigo look
+
+Smooth Animations — hover effects and soft transitions
+
+🛠️ Technologies Used
+
+Next.js 14 — Latest React framework
+
+Redux Toolkit — State and data management
+
+Material UI — Beautiful, modern components
+
+TypeScript — Strongly typed for safety and clarity
+
+React Hook Form — Smart form handling and validation
+
+PapaParse — Efficient CSV import/export handling
+
+
+
+🎮 How to Use
+
+Search Box — type anything to filter the data
+
+Column Headers — click to sort ascending/descending
+
+Edit Button — edit individual rows
+
+Edit All — edit multiple rows simultaneously
+
+Manage Columns — show/hide specific columns
+
+Theme Toggle — switch between light/dark mode
+
+Import/Export — use CSV buttons for file operations
+
+💡 Why It Was Built
+
+Real-world Experience — built just like corporate data tables
+
+Modern Tech Stack — explore and master the latest tools
+
+User Experience First — designed for smooth usability
+
+Professional Design — perfect for showcasing in interviews
+
+🎯 Key Highlights
+
+✅ 100% Feature Requirements met
+
+✅ Custom Features like Edit-All mode
+
+✅ Indian Dataset for realistic context
+
+✅ Professional UI with custom theme
+
+✅ Fully Responsive across devices
+
+✅ Real-time Validation for input fields
+
+✅ Smooth UX with interactive feedback
