@@ -70,8 +70,7 @@ export function DataTable() {
   };
 
   const handleChangeRowsPerPage = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value;
-    const rowsPerPage = value === 'All' ? sortedData.length : parseInt(value, 10);
+    const rowsPerPage = parseInt(event.target.value, 10);
     dispatch(setPagination({ page: 0, rowsPerPage }));
   };
 
@@ -339,7 +338,7 @@ export function DataTable() {
       </TableContainer>
       
       <TablePagination
-        rowsPerPageOptions={[5, 10, 15, 25, 'All']}
+        rowsPerPageOptions={[5, 10, 15, 25]}
         component="div"
         count={sortedData.length}
         rowsPerPage={pagination.rowsPerPage}
